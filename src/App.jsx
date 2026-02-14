@@ -81,8 +81,8 @@ function App() {
         <h1 className="animate-pop" style={{ fontSize: '4em', margin: 0 }}>YAY!! 💘</h1>
         <div className="animate-pop" style={{ marginTop: '20px' }}>
           <img
-            src="/us.jpg"
-            alt="Happy Couple"
+            src="/daredevil-final.jpg"
+            alt="My Valentine"
             style={{ maxWidth: '90%', borderRadius: '20px', boxShadow: '0 15px 30px rgba(0,0,0,0.2)', border: '5px solid white' }}
           />
         </div>
@@ -93,7 +93,7 @@ function App() {
   return (
     <div style={{ textAlign: 'center', position: 'relative', width: '100%' }}>
       <h1 className="animate-fade-in">
-        Anjali, will you be my Valentine? 💖
+        Sharwari, will you be my Valentine? 💖
       </h1>
 
       <div style={{ display: 'flex', gap: '30px', justifyContent: 'center', alignItems: 'center', minHeight: '80px', marginTop: '40px' }}>
